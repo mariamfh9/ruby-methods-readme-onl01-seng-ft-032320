@@ -13,3 +13,18 @@ unit:
 lesson: 
   - defining, calling, scope, arguments
 
+def phrase
+  phrase = "Hello World"
+  puts phrase
+end
+
+phrase
+phrase
+phrase
+phrase
+phrase
+phrase
+phrase
+phrase
+phrase
+phrase
