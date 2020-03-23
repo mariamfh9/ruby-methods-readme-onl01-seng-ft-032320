@@ -1,15 +1,5 @@
-def phrase
-  phrase = "Hello World"
-  puts phrase
+def greeting
+  puts "Hello World"
 end
 
-phrase
-phrase
-phrase
-phrase
-phrase
-phrase
-phrase
-phrase
-phrase
-phrase
+greeting
